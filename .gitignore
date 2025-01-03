@@ -163,3 +163,5 @@ cython_debug/
 
 
 *.txt
+*.pth
+gpt2
