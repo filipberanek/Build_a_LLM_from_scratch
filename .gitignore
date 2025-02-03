@@ -168,3 +168,6 @@ gpt2
 *.csv
 sms_spam_collection
 sms_spam_collection.zip
+*.pt
+*.pth
+*.pdf
